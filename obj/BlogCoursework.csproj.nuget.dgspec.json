@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Iyayi-Osa\\BlogCoursework\\BlogCoursework.csproj": {}
+    "C:\\Users\\Iyayi-Osa\\BlogCoursework\\BlogCoursework.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Iyayi-Osa\\BlogCoursework\\BlogCoursework.csproj": {
+    "C:\\Users\\Iyayi-Osa\\BlogCoursework\\BlogCoursework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Iyayi-Osa\\BlogCoursework\\BlogCoursework.csproj",
+        "projectUniqueName": "C:\\Users\\Iyayi-Osa\\BlogCoursework\\BlogCoursework.csproj",
         "projectName": "BlogCoursework",
-        "projectPath": "c:\\Users\\Iyayi-Osa\\BlogCoursework\\BlogCoursework.csproj",
+        "projectPath": "C:\\Users\\Iyayi-Osa\\BlogCoursework\\BlogCoursework.csproj",
         "packagesPath": "C:\\Users\\Iyayi-Osa\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Iyayi-Osa\\BlogCoursework\\obj\\",
+        "outputPath": "C:\\Users\\Iyayi-Osa\\BlogCoursework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Iyayi-Osa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,6 +21,7 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

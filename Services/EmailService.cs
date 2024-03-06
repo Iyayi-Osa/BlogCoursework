@@ -2,7 +2,8 @@ using MailKit.Net.Smtp;
 using MailKit.Security;
 using MimeKit;
 using Microsoft.Extensions.Options;
-using BlogCoursework.Services;
+namespace BlogCoursework.Services
+{
 public class EmailService
 {
  private readonly EmailSettings _emailSettings;
@@ -30,4 +31,5 @@ SecureSocketOptions.StartTls);
  client.Disconnect(true);
  }
  }
+}
 }

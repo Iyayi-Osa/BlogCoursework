@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mrau0Jt3iMXZKjBZyhoDHzVvf6Kqp+GLvezPboxJ0J0qCUwpExISG/6cKwYuN3S8ZIADUA5YtGaYMviuDCciUw==",
+  "dgSpecHash": "rbcN+I+lsPw16PLSAkDhc6S/ljosHH5mpb8pl6GjvZxX1nxNn3AupWHn/cCnj4U3vf+H0aFTHhhwa1wxg/hLkg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Iyayi-Osa\\BlogCoursework\\BlogCoursework.csproj",
+  "projectFilePath": "C:\\Users\\Iyayi-Osa\\BlogCoursework\\BlogCoursework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Iyayi-Osa\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Iyayi-Osa\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
