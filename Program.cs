@@ -37,7 +37,7 @@ builder.Services.AddScoped<RolesController>();
                         ValidateLifetime = true,
                         ValidateIssuerSigningKey = true,
                         ValidIssuer = builder.Configuration["https://localhost:5230"],
-                        ValidAudience = builder.Configuration["j38jde9je9@#$%^&*"],
+                        ValidAudience = builder.Configuration["A2l8YP9RVpHHRQzL9Emd4canGv4hhL2pOYb05Cqh0H9mhlMgdx8KXOGK3MT1MSqx"],
                         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
                     };
                     });
