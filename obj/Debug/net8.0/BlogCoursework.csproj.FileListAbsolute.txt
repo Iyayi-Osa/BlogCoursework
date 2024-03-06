@@ -286,3 +286,4 @@ C:\Users\Iyayi-Osa\BlogCoursework\obj\Debug\net8.0\refint\BlogCoursework.dll
 C:\Users\Iyayi-Osa\BlogCoursework\obj\Debug\net8.0\BlogCoursework.pdb
 C:\Users\Iyayi-Osa\BlogCoursework\obj\Debug\net8.0\BlogCoursework.genruntimeconfig.cache
 C:\Users\Iyayi-Osa\BlogCoursework\obj\Debug\net8.0\ref\BlogCoursework.dll
+C:\Users\Iyayi-Osa\BlogCoursework\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
