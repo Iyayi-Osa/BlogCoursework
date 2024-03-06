@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Iyayi-Osa\\BlogCoursework\\BlogCoursework.csproj": {}
+    "c:\\Users\\Iyayi-Osa\\BlogCoursework\\BlogCoursework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Iyayi-Osa\\BlogCoursework\\BlogCoursework.csproj": {
+    "c:\\Users\\Iyayi-Osa\\BlogCoursework\\BlogCoursework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Iyayi-Osa\\BlogCoursework\\BlogCoursework.csproj",
+        "projectUniqueName": "c:\\Users\\Iyayi-Osa\\BlogCoursework\\BlogCoursework.csproj",
         "projectName": "BlogCoursework",
-        "projectPath": "C:\\Users\\Iyayi-Osa\\BlogCoursework\\BlogCoursework.csproj",
+        "projectPath": "c:\\Users\\Iyayi-Osa\\BlogCoursework\\BlogCoursework.csproj",
         "packagesPath": "C:\\Users\\Iyayi-Osa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Iyayi-Osa\\BlogCoursework\\obj\\",
+        "outputPath": "c:\\Users\\Iyayi-Osa\\BlogCoursework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Iyayi-Osa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,6 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,6 +44,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.2, )"
